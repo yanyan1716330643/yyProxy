@@ -1,0 +1,23 @@
+{
+  "name": "yyproxy",
+  "version": "0.0.0",
+  "main": "yyProxy.js",
+  "scripts": {
+    "start": "node ./bin/yyProxy"
+  },
+  "description": "this is a simple proxy server",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "node",
+    "proxy",
+    "simple"
+  ],
+  "author": "yanyan",
+  "license": "MIT",
+  "dependencies": {
+    "http-proxy": "~1.16.2"
+  }
+}
