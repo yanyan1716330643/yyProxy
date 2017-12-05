@@ -1,6 +1,6 @@
 {
   "name": "yyproxy",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "main": "yyProxy.js",
   "scripts": {
     "start": "node ./bin/yyProxy"
@@ -16,7 +16,7 @@
     "simple"
   ],
   "bin": {
-    "yyproxy":"./bin/yyproxy"
+    "yyproxy":"./bin/yyproxy.js"
   },
   "author": "yanyan",
   "license": "MIT",
