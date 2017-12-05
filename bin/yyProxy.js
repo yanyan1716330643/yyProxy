@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 let http = require("http");
 let httpProxy = require("http-proxy");
 let proxy = httpProxy.createProxy({});
