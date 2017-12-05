@@ -15,6 +15,9 @@
     "proxy",
     "simple"
   ],
+  "bin": {
+    "yyproxy":"./bin/yyproxy"
+  },
   "author": "yanyan",
   "license": "MIT",
   "dependencies": {
