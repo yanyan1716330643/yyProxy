@@ -8,7 +8,7 @@
   "description": "this is a simple proxy server",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/yanyan1716330643/yyProxy.git"
   },
   "keywords": [
     "node",
