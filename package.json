@@ -1,9 +1,9 @@
 {
   "name": "yyproxy",
-  "version": "0.0.23",
-  "main": "./bin/yy_proxy.js",
+  "version": "0.0.24",
+  "main": "./bin/yyproxy.js",
   "scripts": {
-    "start": "node ./bin/yy_proxy.js"
+    "start": "node ./bin/yyproxy.js"
   },
   "description": "this is a simple proxy server",
   "repository": {
@@ -16,7 +16,7 @@
     "simple"
   ],
   "bin": {
-    "yyproxy":"./bin/yy_proxy.js"
+    "yyproxy":"./bin/yyproxy.js"
   },
   "author": "yanyan",
   "license": "MIT",
