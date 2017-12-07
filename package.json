@@ -1,9 +1,9 @@
 {
   "name": "yyproxy",
-  "version": "0.0.22",
-  "main": "yyProxy.js",
+  "version": "0.0.23",
+  "main": "./bin/yy_proxy.js",
   "scripts": {
-    "start": "node ./bin/yyProxy"
+    "start": "node ./bin/yy_proxy.js"
   },
   "description": "this is a simple proxy server",
   "repository": {
