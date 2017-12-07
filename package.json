@@ -16,7 +16,7 @@
     "simple"
   ],
   "bin": {
-    "yyproxy":"./bin/yyproxy.js"
+    "yyproxy":"./bin/yyProxy.js"
   },
   "author": "yanyan",
   "license": "MIT",
